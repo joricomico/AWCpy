@@ -2,7 +2,7 @@
 """
 Created on Thu May 19 21:06:29 2016
 
-@author: ALe
+Licenced under GPL, Copyright 2016, Alessandro Principe
 """
 
 from inspect import isfunction, ismethod, isgeneratorfunction, isgenerator, isroutine

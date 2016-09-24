@@ -2,7 +2,7 @@
 """
 Created on Sun Jul  3 17:55:04 2016
 
-@author: ALe
+Licenced under GPL, Copyright 2016, Alessandro Principe
 """
 
 from core import runtime, datetime, time

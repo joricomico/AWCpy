@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  6 20:58:35 2016
 
-@author: ALe
+Licenced under GPL, Copyright 2016, Alessandro Principe
 """
 
 from core import struct

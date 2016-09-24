@@ -2,7 +2,7 @@
 """
 Created on Sun Jul  3 14:06:50 2016
 
-@author: ALe
+Licenced under GPL, Copyright 2016, Alessandro Principe
 """
 
 from core import *
